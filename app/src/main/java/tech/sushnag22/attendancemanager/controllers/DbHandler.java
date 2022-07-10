@@ -339,11 +339,11 @@ public class DbHandler extends SQLiteOpenHelper {
 
     }
 
-    public Student getStudentByRollNo(String roll_no) {
+    public Student getStudentByUsn(String usn) {
 
         Student student = new Student();
         SQLiteDatabase sqLiteDatabase = this.getReadableDatabase();
-        String query = "SELECT * FROM student_table WHERE student_roll=" + roll_no;
+        String query = "SELECT * FROM student_table WHERE student_usn=" + usn;
         Cursor cursor = sqLiteDatabase.rawQuery(query, null);
 
         if (cursor.moveToFirst()) {
