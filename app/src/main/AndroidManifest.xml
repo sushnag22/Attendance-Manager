@@ -14,7 +14,46 @@
         android:theme="@style/Theme.AttendanceManager"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".views.ViewTotalAttendanceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".views.ViewStudentDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".views.ViewStudentByBranchSemActivity"
+            android:exported="false" />
+        <activity
+            android:name=".views.ViewFacultyDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".views.ViewFacultyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".views.ViewAttendancePerStudentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".views.SearchStudentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".views.AddFacultyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".views.AddStudentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".views.AddAttendanceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".views.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".views.AddAttendanceSessionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".views.AdminDashboardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".views.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
