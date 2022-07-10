@@ -3,7 +3,27 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/activity_add_attendance.xml" value="0.19895833333333332" />
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/activity_add_attendance_session.xml" value="0.1717171717171717" />
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/activity_add_faculty.xml" value="0.19895833333333332" />
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/activity_add_student.xml" value="0.19895833333333332" />
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/activity_admin_dashboard.xml" value="0.19895833333333332" />
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/activity_login.xml" value="0.19895833333333332" />
         <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/activity_search_student.xml" value="0.19895833333333332" />
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/activity_view_attendance_per_student.xml" value="0.19895833333333332" />
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/activity_view_faculty.xml" value="0.19895833333333332" />
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/activity_view_faculty_details.xml" value="0.19895833333333332" />
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/activity_view_student_by_branch_sem.xml" value="0.19895833333333332" />
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/activity_view_student_details.xml" value="0.19895833333333332" />
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/activity_view_total_attendance.xml" value="0.19895833333333332" />
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/add_student_attendance.xml" value="0.1484375" />
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/attendance_list.xml" value="0.19791666666666666" />
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/recycler_view_layout.xml" value="0.19895833333333332" />
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/view_attendance_list.xml" value="0.1" />
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/view_faculty_list.xml" value="0.19791666666666666" />
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/layout/view_student_list.xml" value="0.19791666666666666" />
+        <entry key="..\:/Sushruth-Nagaraj/VTU/VTU-VI-Semester/MAD/AttendanceManager/app/src/main/res/menu/main.xml" value="0.19895833333333332" />
       </map>
     </option>
   </component>
