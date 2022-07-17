@@ -23,7 +23,7 @@ public class AddAttendanceActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_add_attendance_session);
+        setContentView(R.layout.recycler_view_layout);
 
         sessionId = getIntent().getExtras().getInt("sessionId");
 
