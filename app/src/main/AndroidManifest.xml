@@ -3,7 +3,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="tech.sushnag22.attendancemanager">
 
+
     <application
+        android:name=".context.AppContext"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
